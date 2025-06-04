@@ -1,8 +1,10 @@
 <div align="center">
 
-# 🚀 Welcome to My Digital Universe
+# 👋 Hey, I'm Harish Karthik D
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hi+there!+I'm+%5BYour+Name%5D;Full+Stack+Developer;Tech+Enthusiast+%26+Problem+Solver;Building+the+Future%2C+One+Line+at+a+Time)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer;Problem+Solver+%26+Tech+Explorer;Building+Digital+Experiences)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=harishkarthikd&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -10,268 +12,179 @@
 
 <div align="center">
 
-## 💫 About Me
+## 🔥 Real-Time Activity
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=FF6B6B&center=true&vCenter=true&width=800&lines=const+developer+%3D+%7B;++++name%3A+%22Your+Name%22%2C;++++location%3A+%22Chennai%2C+India+%F0%9F%87%AE%F0%9F%87%B3%22%2C;++++languages%3A+%5B%22JavaScript%22%2C+%22Python%22%2C+%22TypeScript%22%5D%2C;++++currentFocus%3A+%22Building+Scalable+Web+Applications%22%2C;++++availableForHire%3A+true;%7D%3B)](https://git.io/typing-svg)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harishkarthikd&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
+
+---
+
+## 💫 Dynamic Overview
 
 ```typescript
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  languages: string[];
-  tools: string[];
-  architecture: string[];
-  currentlyLearning: string[];
-  goals: string[];
-}
+class Developer {
+  private readonly info = {
+    name: "Harish Karthik D",
+    location: "Chennai, India 🇮🇳",
+    role: "Full Stack Developer",
+    experience: `${new Date().getFullYear() - 2020}+ years`,
+    currentTime: new Date().toLocaleString('en-IN', { timeZone: 'Asia/Kolkata' })
+  };
 
-const harishkarthik: Developer = {
-  name: "HARISH KARTHIK D",
-  role: "Full Stack Developer",
-  location: "Chennai, India 🌍",
-  languages: ["JavaScript", "TypeScript", "Python", "Java", "Go"],
-  tools: ["React", "Next.js", "Node.js", "Docker", "AWS"],
-  architecture: ["Microservices", "Event-Driven", "Serverless"],
-  currentlyLearning: ["AI/ML", "Web3", "Cloud Architecture"],
-  goals: ["Open Source Contribution", "Tech Leadership", "Innovation"]
-};
-```
-
----
-
-<div align="center">
-
-## 🎯 Current Status
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=800&color=4ECDC4&center=true&vCenter=true&width=600&lines=%F0%9F%94%AD+Building+next-gen+web+applications;%F0%9F%8C%B1+Exploring+AI%2FML+technologies;%F0%9F%91%AF+Open+to+collaborations;%F0%9F%92%AC+Let's+talk+tech!)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend Universe
-```
-React.js  ████████████████████████████████████████  100%
-Next.js   ████████████████████████████████████      90%
-Vue.js    ████████████████████████████              75%
-TypeScript████████████████████████████████████████  95%
-Tailwind  ████████████████████████████████████      85%
-```
-
-### Backend Ecosystem
-```
-Node.js   ████████████████████████████████████████  100%
-Python    ████████████████████████████████████      90%
-Express   ████████████████████████████████████████  95%
-Django    ████████████████████████████              70%
-GraphQL   ████████████████████████████              75%
-```
-
-### Database & Cloud
-```
-MongoDB   ████████████████████████████████████████  90%
-PostgreSQL████████████████████████████████████      85%
-Redis     ████████████████████████████              70%
-AWS       ████████████████████████████████████      80%
-Docker    ████████████████████████████████████████  85%
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 📊 Real-Time GitHub Analytics
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFD93D&center=true&vCenter=true&width=500&lines=Loading+GitHub+Stats...;Analyzing+Code+Patterns...;Generating+Insights...)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-### 📈 Performance Metrics
-
-```
-Total Repositories    : 42
-Total Commits (2024)  : 1,247
-Total Stars Earned    : 156
-Total Forks           : 89
-Lines of Code Written : 50,000+
-```
-
-### 🔥 Streak Information
-
-```
-Current Streak    : 🔥 23 days
-Longest Streak    : 🚀 67 days
-Best Day          : 💪 15 commits
-Average Daily     : ⚡ 3.2 commits
-```
-
-### 💻 Language Distribution
-
-```
-JavaScript  ████████████████████████████████  48.3%
-Python      ████████████████████████          22.1%
-TypeScript  ██████████████████                10.4%
-HTML        ████████████                       9.7%
-CSS         ██████                             6.9%
-Others      ███                                2.6%
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 🎨 Featured Projects
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=500&color=FF9F43&center=true&vCenter=true&width=700&lines=Building+Tomorrow's+Applications+Today;Innovation+Through+Code;Quality+%2B+Performance+%2B+Scalability)](https://git.io/typing-svg)
-
-</div>
-
-### 🚀 Project Showcase
-
-```typescript
-const projects = [
-  {
-    name: "🌟 E-Commerce Platform",
-    tech: ["React", "Node.js", "MongoDB", "Stripe"],
-    status: "Production Ready",
-    impact: "10k+ users",
-    highlights: ["Real-time inventory", "Payment integration", "Admin dashboard"]
-  },
-  {
-    name: "📱 Social Media App",
-    tech: ["Next.js", "PostgreSQL", "Socket.io", "AWS"],
-    status: "In Development",
-    impact: "Beta testing",
-    highlights: ["Real-time chat", "Content sharing", "AI recommendations"]
-  },
-  {
-    name: "🤖 AI Task Manager",
-    tech: ["Python", "FastAPI", "TensorFlow", "Docker"],
-    status: "MVP Complete",
-    impact: "500+ beta users",
-    highlights: ["Smart scheduling", "NLP integration", "Predictive analytics"]
+  getCurrentStatus(): Status {
+    const hour = new Date().getHours();
+    if (hour >= 9 && hour <= 18) {
+      return "🔥 Actively coding";
+    } else if (hour >= 19 && hour <= 23) {
+      return "🌙 Side projects & learning";
+    } else {
+      return "😴 Probably dreaming in code";
+    }
   }
-];
+
+  getTechStack(): TechStack {
+    return {
+      frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+      backend: ["Node.js", "Python", "Express", "FastAPI"],
+      database: ["MongoDB", "PostgreSQL", "Redis"],
+      cloud: ["AWS", "Docker", "Kubernetes"],
+      tools: ["Git", "VS Code", "Figma", "Postman"]
+    };
+  }
+}
+
+const harish = new Developer();
+console.log(`Status: ${harish.getCurrentStatus()}`);
 ```
 
 ---
 
 <div align="center">
 
-## 📈 Activity Timeline
+## 📊 Live GitHub Analytics
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkarthikd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkarthikd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
-
-```
-2024-12-01  ████████████████████████████████████████  15 commits
-2024-11-30  ██████████████████████████████            12 commits
-2024-11-29  ████████████████████████                   8 commits
-2024-11-28  ████████████████████████████████████████  16 commits
-2024-11-27  ██████████████████████████████              9 commits
-2024-11-26  ████████████████████████████████████████  14 commits
-2024-11-25  ██████████████████████████████████          11 commits
-```
 
 ---
 
+## 🚀 Featured Projects
+
 <div align="center">
 
-## 🌐 Digital Presence
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=500&color=A8E6CF&center=true&vCenter=true&width=600&lines=Let's+Connect+%26+Build+Something+Amazing!;Always+Open+to+New+Opportunities;Collaboration+is+Key+to+Innovation)](https://git.io/typing-svg)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harishkarthikd&repo=your-featured-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthikd/your-featured-repo-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harishkarthikd&repo=your-featured-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthikd/your-featured-repo-2)
 
 </div>
-
-```yaml
-contact:
-  email: "your.email@example.com"
-  linkedin: "/in/yourprofile"
-  twitter: "@yourhandle"
-  portfolio: "https://yourportfolio.com"
-  location: "Chennai, Tamil Nadu, India"
-  timezone: "IST (UTC+5:30)"
-  
-availability:
-  status: "Open for opportunities"
-  interests: ["Full Stack Development", "System Design", "Open Source"]
-  collaboration: "Always welcome"
-  mentoring: "Available for junior developers"
-```
 
 ---
 
+## 🛠️ Tech Arsenal
+
 <div align="center">
 
-## ⚡ Fun Facts & Achievements
+### Languages & Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
-```javascript
-const achievements = {
-  coding: {
-    "500+ Days": "Consecutive coding streak",
-    "50+ Projects": "Personal & professional projects",
-    "10k+ Lines": "Of clean, maintainable code",
-    "Zero Bugs": "In production (this week) 😄"
-  },
-  learning: {
-    "24/7": "Always learning new technologies",
-    "∞ Curiosity": "Never stops exploring",
-    "1 Coffee": "Equals 100 lines of code",
-    "Debug Mode": "Permanently enabled"
-  },
-  philosophy: [
-    "Code is poetry written for machines",
-    "Bugs are just undocumented features",
-    "There's no problem that can't be solved with enough coffee",
-    "Clean code > Clever code"
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+[![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harishkarthikd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 🎯 Current Focus
+
+```json
+{
+  "currentlyWorking": [
+    "Building scalable web applications",
+    "Exploring AI/ML integration in web apps",
+    "Contributing to open source projects"
+  ],
+  "learning": [
+    "Advanced system design patterns",
+    "Cloud architecture (AWS/Azure)",
+    "Performance optimization techniques"
+  ],
+  "interests": [
+    "Full-stack development",
+    "Developer experience (DX)",
+    "Tech mentoring & knowledge sharing"
   ]
-};
-```
-
----
-
-<div align="center">
-
-## 💭 Quote of the Moment
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=2000&color=FF6B9D&center=true&vCenter=true&width=800&lines=%22Code+is+like+humor.+When+you+have+to+explain+it%2C+it's+bad.%22;%22First%2C+solve+the+problem.+Then%2C+write+the+code.%22;%22The+best+error+message+is+the+one+that+never+shows+up.%22;%22Simplicity+is+the+ultimate+sophistication.%22)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 Let's Build the Future Together!
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Let's+create+something+amazing!;The+journey+continues...)](https://git.io/typing-svg)
-
-```
-if (you.areAwesome()) {
-  let's.connect();
-  let's.collaborate();
-  let's.buildSomethingAmazing();
 }
 ```
 
-**Profile Views:** `Loading...` | **Followers:** `Growing...` | **Stars:** `Counting...`
+---
+
+## 🌟 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+
+</div>
 
 ---
 
-*"The future belongs to those who code it."* - **HARISH KARTHIK D**
+<div align="center">
+
+## 💭 Random Dev Quote
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🎵 Currently Jamming To
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&count=1&unique=true)](https://open.spotify.com/user/your-spotify-username)
+
+</div>
+
+---
+
+<div align="center">
+
+**"Code is poetry, bugs are plot twists, and coffee is the inspiration."**
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Let's+build+something+amazing+together!;Happy+coding!+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+---
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
