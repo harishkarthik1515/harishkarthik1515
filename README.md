@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Full+Stack+Developer;Problem+Solver+%26+Tech+Explorer;Building+Digital+Experiences)](https://git.io/typing-svg)
 
-<img src="https://komarev.com/ghpvc/?username=harishkarthikd&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=harishkarthik1515&label=Profile%20Views&color=58A6FF&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -14,7 +14,7 @@
 
 ## 🔥 Real-Time Activity
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=harishkarthikd&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=harishkarthik1515&theme=tokyonight&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -64,8 +64,8 @@ console.log(`Status: ${harish.getCurrentStatus()}`);
 
 ## 📊 Live GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkarthikd&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkarthikd&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harishkarthik1515&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishkarthik1515&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
 
 </div>
 
@@ -75,8 +75,8 @@ console.log(`Status: ${harish.getCurrentStatus()}`);
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harishkarthikd&repo=your-featured-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthikd/your-featured-repo-1)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harishkarthikd&repo=your-featured-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthikd/your-featured-repo-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/your-featured-repo-1)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/your-featured-repo-2)
 
 </div>
 
@@ -114,7 +114,7 @@ console.log(`Status: ${harish.getCurrentStatus()}`);
 
 <div align="center">
 
-[![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harishkarthikd&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Harish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harishkarthik1515&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF7B72)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
