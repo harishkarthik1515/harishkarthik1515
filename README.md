@@ -230,7 +230,7 @@ CSS                      1 hr 10 mins        █░░░░░░░░░░�
 ## <img src="https://media.giphy.com/media/U4VXRfcY3zxTi/giphy.gif" width="25px"> Fun Stuff
 
 ### 🎵 Currently Listening To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31jcvtrmvptkyodcbousy2erjwty&count=3&unique=true&width=600)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31jcvtrmvptkyodcbousy2erjwty&count=3&unique=true&width=600)](https://open.spotify.com/user/31jcvtrmvptkyodcbousy2erjwty)
 
 ### 🎮 Gaming Status
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/your-steam-id)
