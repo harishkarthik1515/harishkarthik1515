@@ -230,7 +230,7 @@ CSS                      1 hr 10 mins        █░░░░░░░░░░�
 ## <img src="https://media.giphy.com/media/U4VXRfcY3zxTi/giphy.gif" width="25px"> Fun Stuff
 
 ### 🎵 Currently Listening To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&count=3&unique=true&width=600)](https://open.spotify.com/user/your-spotify-username)
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31jcvtrmvptkyodcbousy2erjwty&count=3&unique=true&width=600)](https://open.spotify.com/user/your-spotify-username)
 
 ### 🎮 Gaming Status
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/your-steam-id)
@@ -246,7 +246,6 @@ CSS                      1 hr 10 mins        █░░░░░░░░░░�
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+build+something+amazing+together!+%F0%9F%9A%80;Happy+coding!+%E2%9C%A8;Always+learning%2C+always+growing+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
-![Snake animation](https://github.com/harishkarthik1515/harishkarthik1515/blob/output/github-contribution-grid-snake-dark.svg)
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer&animation=twinkling)
 
