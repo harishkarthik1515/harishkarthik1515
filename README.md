@@ -96,24 +96,24 @@
 <tr>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-1&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/your-featured-repo-1)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-1&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/heartlynz.git)
 
 </td>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-2&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/your-featured-repo-2)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-2&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/ssragro.git)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-3&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/your-featured-repo-3)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-3&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/harvynix.git)
 
 </td>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-4&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/your-featured-repo-4)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-4&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/SENTINELXYFER-V2.git)
 
 </td>
 </tr>
@@ -229,8 +229,6 @@ CSS                      1 hr 10 mins        █░░░░░░░░░░�
 
 ## <img src="https://media.giphy.com/media/U4VXRfcY3zxTi/giphy.gif" width="25px"> Fun Stuff
 
-### 🎵 Currently Listening To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31jcvtrmvptkyodcbousy2erjwty&count=3&unique=true&width=600)](https://open.spotify.com/user/31jcvtrmvptkyodcbousy2erjwty)
 
 ### 🎮 Gaming Status
 [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/your-steam-id)
