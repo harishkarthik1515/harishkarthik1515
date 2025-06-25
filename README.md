@@ -96,7 +96,7 @@
 <tr>
 <td width="50%">
 
-[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-1&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://github.com/harishkarthik1515/heartlynz.git)
+[![Readme Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=harishkarthik1515&repo=your-featured-repo-1&theme=algolia&hide_border=true&border_radius=20&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)](https://sentinelxyfer-v2.vercel.app/)
 
 </td>
 <td width="50%">
